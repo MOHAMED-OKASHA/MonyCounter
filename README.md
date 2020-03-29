@@ -1,5 +1,6 @@
 <h1 align="center">Arduino Project</h1>
 <p align="center"><a href="#readme"><img src="https://github.com/mohamed-okasha/MonyCounter/blob/master/preview.png" alt="Preview" /></a></p>
+<p align="center"><a href="#readme"><img src="https://github.com/mohamed-okasha/MonyCounter/blob/master/preview_2.png" alt="Preview" /></a></p>
 
 ## Contributing
 
