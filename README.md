@@ -10,5 +10,3 @@ Bug reports and pull requests are welcome on [GitHub][github].
 This project is available under the terms of the ISC license. See the
 [`LICENSE`](LICENSE) file for the copyright information and licensing terms.
 
-[github]: https://github.com/mohamed-okasha/dirty-sexual-skipper.git
-[config-dir]: https://www.videolan.org/support/faq.html#Config
